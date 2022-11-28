@@ -1,7 +1,7 @@
 # Successed: ASUS D820MT Q170M-C 
 <table>
   <tr>
-    <td>處理器</td><td>Intel(R) Core(TM) i7-6700 Haswell</td>
+    <td>處理器</td><td>Intel(R) Core(TM) i7-6700 Skylake</td>
   </tr>
   <tr>
     <td>主機板</td><td>ASUS Q170M-C</td>
