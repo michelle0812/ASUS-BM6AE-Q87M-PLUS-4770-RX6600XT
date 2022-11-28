@@ -10,7 +10,7 @@
     <td>記憶體</td><td>DDR4-2133 8GB *1</td>
   </tr>
   <tr>
-    <td>iGPU</td><td>Intel HD 530</td>
+    <td>iGPU</td><td>Intel HD Graphics 530 1536MB</td>
   </tr>
   <tr>  
     <td>固態硬碟</td><td>Cruical M550 128GB</td>
