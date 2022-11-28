@@ -1,10 +1,10 @@
-# Successed: ASUS D820MT Q170M-C 
+# Successed: ASUS MD790 Q170M-C/D820MT/DP_MB 
 <table>
   <tr>
     <td>處理器</td><td>Intel(R) Core(TM) i7-6700 Skylake</td>
   </tr>
   <tr>
-    <td>主機板</td><td>ASUS Q170M-C</td>
+    <td>主機板</td><td>ASUS Q170M-C/D820MT</td>
   </tr>
   <tr>  
     <td>記憶體</td><td>DDR4-2133 8GB *1</td>
