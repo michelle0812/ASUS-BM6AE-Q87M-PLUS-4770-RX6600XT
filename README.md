@@ -10,7 +10,7 @@
     <td>記憶體</td><td>DDR3-1600 8GB *2</td>
   </tr>
   <tr>
-    <td>dGPU</td><td>MSI RX 6600 XT</td>
+    <td>iGPU</td><td>Intel HD Graphic 4600</td>
   </tr>
   <tr>  
     <td>固態硬碟</td><td>Cruical M550 128GB</td>
