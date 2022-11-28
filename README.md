@@ -18,6 +18,9 @@
   <tr>
     <td>系統</td><td>macOS Monterey 12.6.1 + OpenCore 0.8.6</td>
   </tr>  
+    <tr>
+    <td>備註</td><td>4K螢幕＋DP或HDMI，都無法進系統，1920x1080和2560x1440的螢幕可正常進系統</td>
+  </tr>  
 </table>
 <img width="450" src="https://user-images.githubusercontent.com/79300809/204200810-b30b0d9d-e323-4e4f-b228-99be75a1aeb2.png"><br>
 <img width="450" src="https://user-images.githubusercontent.com/79300809/204205199-51a6dc56-cb36-47df-9df7-99af27951a65.png"><br>
