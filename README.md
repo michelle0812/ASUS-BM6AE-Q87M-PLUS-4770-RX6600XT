@@ -19,5 +19,4 @@
     <td>系統</td><td>macOS Monterey 12.6.1 + OpenCore 0.8.6</td>
   </tr>  
 </table>
-<img width="450" src="https://user-images.githubusercontent.com/79300809/202959989-cc162c06-bb07-4952-889d-c1af49746eed.jpg"><br>
-<img width="450" src=""><br>
+<img width="450" src="https://user-images.githubusercontent.com/79300809/204200810-b30b0d9d-e323-4e4f-b228-99be75a1aeb2.png"><br>
