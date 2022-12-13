@@ -4,19 +4,22 @@
     <td>處理器</td><td>Intel(R) Core(TM) i7-6700 Skylake</td>
   </tr>
   <tr>
-    <td>主機板</td><td>ASUS Q170M-C/D820MT</td>
+    <td>主機板</td><td>ASUS H110M-C/D520MT</td>
   </tr>
   <tr>  
-    <td>記憶體</td><td>DDR4-2133 8GB *1</td>
+    <td>記憶體</td><td>DDR4-2133 8GB *2</td>
   </tr>
   <tr>
     <td>iGPU</td><td>Intel HD Graphics 530 1536MB</td>
   </tr>
+    <tr>
+    <td>dGPU</td><td>微星 RX 6600 XT 8GB</td>
+  </tr>
   <tr>  
-    <td>固態硬碟</td><td>Cruical M550 128GB</td>
+    <td>固態硬碟</td><td>Intel 256GB</td>
   </tr>
   <tr>
-    <td>系統</td><td>macOS Monterey 12.6.1 + OpenCore 0.8.6</td>
+    <td>系統</td><td>macOS Monterey 12.6.1 + OpenCore 0.8.7</td>
   </tr>  
     <tr>
     <td>備註</td><td>4K螢幕＋DP或HDMI，都無法進系統，1920x1080和2560x1440的螢幕可正常進系統</td>
