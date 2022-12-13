@@ -1,4 +1,4 @@
-# Successed: ASUS MD790 Q170M-C/D820MT/DP_MB 
+# Successed: ASUS H110M-C/D520MT/DP_MB 
 <table>
   <tr>
     <td>處理器</td><td>Intel(R) Core(TM) i7-6700 Skylake</td>
